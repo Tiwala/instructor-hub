@@ -37,7 +37,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ### Environmental Variables
 
-Some inormation will be uniqe to the environemnt in which this project is deployed or should not be shared publicly such as port numbers, api keys, etc.
+Some information will be unique to the environment in which this project is deployed or should not be shared publicly such as port numbers, api keys, etc.
 
 [Next.js](https://nextjs.org/) uses a file named `.env.local`
 
